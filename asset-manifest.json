@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/ffnal-project/static/css/main.6f4b43cd.css",
+    "main.js": "/ffnal-project/static/js/main.a72d5199.js",
+    "static/js/787.917857b7.chunk.js": "/ffnal-project/static/js/787.917857b7.chunk.js",
+    "static/media/FoodCourtLogo.jpeg": "/ffnal-project/static/media/FoodCourtLogo.8a77b9e5694d331fdd9e.jpeg",
+    "index.html": "/ffnal-project/index.html",
+    "main.6f4b43cd.css.map": "/ffnal-project/static/css/main.6f4b43cd.css.map",
+    "main.a72d5199.js.map": "/ffnal-project/static/js/main.a72d5199.js.map",
+    "787.917857b7.chunk.js.map": "/ffnal-project/static/js/787.917857b7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6f4b43cd.css",
+    "static/js/main.a72d5199.js"
+  ]
+}
